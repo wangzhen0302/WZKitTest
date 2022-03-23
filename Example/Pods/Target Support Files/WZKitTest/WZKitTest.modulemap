@@ -1,0 +1,6 @@
+framework module WZKitTest {
+  umbrella header "WZKitTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

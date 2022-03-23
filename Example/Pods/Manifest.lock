@@ -1,0 +1,16 @@
+PODS:
+  - WZKitTest (0.1.0)
+
+DEPENDENCIES:
+  - WZKitTest (from `../`)
+
+EXTERNAL SOURCES:
+  WZKitTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZKitTest: f0897c8efef7681983e0c9fbb73f933f54029b68
+
+PODFILE CHECKSUM: b33edf79fc769970883e81b43fdecd8d1cd51c19
+
+COCOAPODS: 1.11.2
